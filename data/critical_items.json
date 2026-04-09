@@ -1,0 +1,74 @@
+[
+  {
+    "type": "obligations",
+    "value": "must",
+    "source": {
+      "chunk_id": "para_11",
+      "level": 1,
+      "page_number": 12
+    }
+  },
+  {
+    "type": "risks",
+    "value": "fine",
+    "source": {
+      "chunk_id": "para_12",
+      "level": 1,
+      "page_number": 13
+    }
+  },
+  {
+    "type": "risks",
+    "value": "fine",
+    "source": {
+      "chunk_id": "para_14",
+      "level": 1,
+      "page_number": 15
+    }
+  },
+  {
+    "type": "obligations",
+    "value": "must",
+    "source": {
+      "chunk_id": "para_21",
+      "level": 1,
+      "page_number": 22
+    }
+  },
+  {
+    "type": "risks",
+    "value": "fine",
+    "source": {
+      "chunk_id": "para_21",
+      "level": 1,
+      "page_number": 22
+    }
+  },
+  {
+    "type": "risks",
+    "value": "fine",
+    "source": {
+      "chunk_id": "para_25",
+      "level": 1,
+      "page_number": 26
+    }
+  },
+  {
+    "type": "obligations",
+    "value": "must",
+    "source": {
+      "chunk_id": "para_26",
+      "level": 1,
+      "page_number": 27
+    }
+  },
+  {
+    "type": "obligations",
+    "value": "must",
+    "source": {
+      "chunk_id": "para_31",
+      "level": 1,
+      "page_number": 32
+    }
+  }
+]
