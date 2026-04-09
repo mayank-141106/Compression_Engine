@@ -249,3 +249,13 @@ This allows users to understand:
 
 This project demonstrates that large documents can be compressed without losing trust.
 By combining hierarchical compression, explicit preservation of critical information, and full traceability, the system produces compact representations that remain usable for enterprise decision-making.
+
+---
+## 👥 Team
+
+This project was developed collaboratively by:
+
+- **Mayank Lande**
+- **Ankit Kumar**
+- **Mangesh Rakhewar**
+- **Aayush Raj**
